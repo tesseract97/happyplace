@@ -1,11 +1,11 @@
 # happyplace
 App to get my day started in the morning
 
-Idea for app:
+**Idea for app:**
 
 Good morning app that loads upon starting your computer with a pleasing background image and easy links to your favorite sites. 
 
-Features:
+**Features:**
 
 * Neural network that finds art online and is being trained to pick art that the user likes.
 
@@ -29,4 +29,8 @@ Uses/ Will Use
 
 * ??
 
-** NONE OF THIS IS COMPLETED, STILL WORKING ON THE SKELETON **
+**NONE OF THIS IS COMPLETED, STILL WORKING ON THE SKELETON**
+
+**Neural Network Logic Algorithm:**
+
+TBD
